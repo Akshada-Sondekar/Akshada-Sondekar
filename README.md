@@ -24,9 +24,17 @@
 ---
 
 ### 📊 GitHub Statistics
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshada-Sondekar&show_icons=true&theme=radical" alt="Akshada's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshada-Sondekar&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshada-Sondekar&show_icons=true&theme=radical" alt="Akshada's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshada-Sondekar&layout=compact&theme=radical" alt="Top Languages" width="300" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshada-Sondekar&theme=radical" alt="Akshada's Streak" />
 </p>
 
 ---
