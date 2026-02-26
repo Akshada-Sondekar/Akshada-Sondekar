@@ -1,8 +1,11 @@
 # Akshada Sondekar | AI/ML | Data Science👩‍💻
 
 💻 **Expertise in Python, Java, C, and Power BI.**
+
 🌱 **Passionate about Data Science, Machine Learning, and Autonomous Systems.**
+
 📊 **I analyze complex datasets to build insightful visualizations and intelligent models.**
+
 🎯 **Currently learning Full Stack and diving deep in building real world projects.**
 
 ---
