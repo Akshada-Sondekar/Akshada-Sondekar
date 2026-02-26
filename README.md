@@ -1,16 +1,38 @@
-## Hi there 👋
+# Akshada Sondekar | AI/ML | Data Science👩‍💻
 
-<!--
-**Akshada-Sondekar/Akshada-Sondekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Expertise in Python, Java, C, and Power BI.**
+🌱 **Passionate about Data Science, Machine Learning, and Autonomous Systems.**
+📊 **I analyze complex datasets to build insightful visualizations and intelligent models.**
+🎯 **Currently learning Full Stack and diving deep in building real world projects.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **Blinkit Grocery Analysis**: Interactive Power BI dashboard offering consumer behavior insights.
+* **Autonomous Driving Assistance**: Developed core logic for smart vehicle assistance systems.
+* **Mental Health Support Chatbot**: Python-based NLP project for social support.
+
+---
+
+### 🛠️ Tech Stack & Tools
+| Category | Tools/Languages |
+| :--- | :--- |
+| **Languages** | Python, Java, C, HTML, CSS |
+| **Data/AI** | TensorFlow, Jupyter, Power BI |
+| **Tools** | Git, GitHub, VS Code |
+
+---
+
+### 📈 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshada-Sondekar&show_icons=true&theme=radical" alt="Akshada Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshada-Sondekar&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📫 Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshada-sondekar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+📍 Pune, Maharashtra
