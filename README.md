@@ -23,16 +23,16 @@
 
 ---
 
-### 📈 My GitHub Stats
+### 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshada-Sondekar&show_icons=true&theme=radical" alt="Akshada Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshada-Sondekar&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshada-Sondekar&show_icons=true&theme=radical" alt="Akshada's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshada-Sondekar&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 📫 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshada-sondekar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sondekarakshada11@gmail.com)
 
 📍 Pune, Maharashtra
