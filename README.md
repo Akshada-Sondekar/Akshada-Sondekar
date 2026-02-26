@@ -2,7 +2,7 @@
 
 💻 **Expertise in Python, Java, C, and Power BI.**
 
-🌱 **Passionate about Data Science, Machine Learning, and Autonomous Systems.**
+🌱 **Passionate about Data Science, Machine Learning, Frontend projects.**
 
 📊 **I analyze complex datasets to build insightful visualizations and intelligent models.**
 
